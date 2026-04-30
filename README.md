@@ -43,12 +43,15 @@ npm install
 2️⃣ Run the development server
 npm run dev
 3️⃣ Open in browser
+
 http://localhost:3000
+
 📂 Project Structure
 app/          → Main pages (Next.js App Router)
 components/   → UI components
 lib/          → Utility functions
 hooks/        → Custom hooks
+
 🔮 Future Improvements
 🤖 AI integration (OpenAI / LLM)
 📄 Document parsing (PDF, text)
@@ -56,6 +59,7 @@ hooks/        → Custom hooks
 🧠 Knowledge graph system
 ☁️ Backend integration (Node.js / Firebase)
 👩‍💻 Author
+
 
 Dakshayini
 
